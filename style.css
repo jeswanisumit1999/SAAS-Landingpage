@@ -171,4 +171,7 @@ nav > ul{
     .section2 img{
         padding: 0px 20%;
     }
+    nav > ul{
+        display: none;
+    }
 }
